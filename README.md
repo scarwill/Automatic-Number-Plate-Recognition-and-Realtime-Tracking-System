@@ -1,0 +1,2 @@
+# Automatic-Number-Plate-Recognition-with-vehicle-counter-using-Yolov8
+ANPR with YOLOv8 and Vehicle Counter ANPR with YOLOv8 and Vehicle Counter is a comprehensive solution for automatic number plate recognition and vehicle counting. This project leverages the power of YOLOv8 for object detection and integrates a vehicle counting mechanism to provide real-time analytics for traffic monitoring and management.
