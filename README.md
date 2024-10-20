@@ -10,8 +10,8 @@ ANPR with YOLOv8 and Vehicle Counter ANPR with YOLOv8 and Vehicle Counter is a c
 
 To install the ANPR with YOLOv8 and Vehicle Counter, clone the repository and install the required dependencies:
 
-git clone https://github.com/yourusername/anpr-yolov8-vehicle-counter.git
+git clone https://github.com/yourusername/anpr-yolov8.git
 
-cd anpr-yolov8-vehicle-counter
+cd anpr-yolov8
 
 pip install -r requirements.txt
